@@ -1,24 +1,31 @@
-# MetaMask Brand Resources
+# Pickle Finance Brand Resources
 
-Downloadable vector assets of the MetaMask Logo
+Downloadable assets of the Pickle Finance Logo
 
-### Just the fox
+## Just the Pickle
+
 <p align="left">
-  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/metamask-fox.svg" width="350"/>
+  <img src="SVG/Pickle_Logo_RGB_colour-icon.svg" width="125"/>
+  <img src="SVG/Pickle_Logo_RGB_green-outline-icon.svg" width="125"/>
+  <img src="SVG/Pickle_Logo_RGB_black-outline-icon.svg" width="125"/>
+  <img src="SVG/Pickle_Logo_RGB_white-outline-icon.svg" width="125"/>
 </p>
 
-### Stacked
+## Horizontal
+
 <p align="left">
-  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/metamask-fox-wordmark-stacked.svg" width="350"/>
+  <img src="SVG/Pickle_Logo_RGB_primary-on-dark.svg" width="200"/>
+  <img src="SVG/Pickle_Logo_RGB_primary-on-light.svg" width="200"/>
+  <img src="SVG/Pickle_Logo_RGB_primary-full-black.svg" width="200"/>
+  <img src="SVG/Pickle_Logo_RGB_primary-full-white.svg" width="200"/>
 </p>
 
-### Horizontal
-<p align="left">
-  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/metamask-fox-wordmark-horizontal.svg" width="450"/>
-</p>
+## Stacked
 
-### Color Spec
 <p align="left">
-  <img src="https://github.com/MetaMask/brand-resources/blob/master/SVG/metamask-fox-colors.svg" width="350"/>
+  <img src="SVG/Pickle_Logo_RGB_secondary-on-dark.svg" width="200"/>
+  <img src="SVG/Pickle_Logo_RGB_secondary-full-black.svg" width="200"/>
+  <img src="SVG/Pickle_Logo_RGB_secondary-full-white.svg" width="200"/>
+  <img src="SVG/Pickle_Logo_RGB_secondary-on-dark.svg" width="200"/>
+  <img src="SVG/Pickle_Logo_RGB_secondary-on-light.svg" width="200"/>
 </p>
-
